@@ -38,6 +38,6 @@ public class ForexController {
     @RequestMapping("/")
     public String index() {
 
-        return "Greetings from Spring Boot!----with github connected";
+        return "Greetings from Spring Boot!----with github connected, second commit";
     }
 }
